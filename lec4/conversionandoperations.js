@@ -1,6 +1,8 @@
 let score = "Shreya"
+//let score = undefined
+//let score = null
 //let score = "33"
-// //   "33" ek valid number string hai,Isliye JavaScript usko convert kar deta hai:
+// //  "33" ek valid number string hai,Isliye JavaScript usko convert kar deta hai:
 // "33"=>33 
 //let score = "33abc"
 //let score = true
@@ -19,6 +21,7 @@ let valueIntNumber = Number(score)
 // "33abc" => NaN (not an number)
 //  true => 1; false => 0
 
+//let isLoggedIn = 1
 let isLoggedIn = ""
 let booleanIsLoggedIn = Boolean(isLoggedIn )
 console.log(booleanIsLoggedIn);
