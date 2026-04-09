@@ -20,7 +20,15 @@ This repo contains all my lecture-wise practice and concepts.
 - ✅ lec07 - Completed
 - ✅ lec08 - Completed
 - ✅ lec09 - Completed
-- ✅ lec10 - Completed 🎉
+- ✅ lec10 - Completed
+- ✅ lec11 - Completed
+- ✅ lec12 - Completed 
+- ✅ lec13 - Completed 
+- ✅ lec14 - Completed 
+- ✅ lec15 - Completed 
+- ✅ lec16 - Completed 
+- ✅ lec17 - Completed 🎉
+
 
 ---
 
