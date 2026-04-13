@@ -46,7 +46,7 @@ const balance = 1000
 const userLoggedIn = true 
 const debitCard = true 
 const loggedInFromGoogle = false
-const loggedInFromEmail = true
+const loggedInFromEmail = tr
 
 
 
